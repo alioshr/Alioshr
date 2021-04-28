@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-28T04:54:53.332Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="a0TPrU-_iEkOoKFNt7q8" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-28T04:56:25.631Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="sGky9ZjqdCo8nfFdjqf0" version="14.6.6" type="github">
   <diagram id="7C1zHKz_L_XaID7tGxn1" name="Page-1">
     <mxGraphModel dx="1613" dy="1683" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -133,6 +133,21 @@
         </mxCell>
         <mxCell id="nDdKCuJg6omg3RGkGIXK-63" value="ExpressRouteAdapter" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="-17" y="148" width="125.5" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="nDdKCuJg6omg3RGkGIXK-65" value="SignupComposer" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="88" width="125.5" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="nDdKCuJg6omg3RGkGIXK-69" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#5C5C5C;strokeColor=#577845;fillColor=#21C0A5;" edge="1" parent="1" source="nDdKCuJg6omg3RGkGIXK-66" target="nDdKCuJg6omg3RGkGIXK-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nDdKCuJg6omg3RGkGIXK-66" value="SignupRouter" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-17" y="204" width="125.5" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="nDdKCuJg6omg3RGkGIXK-70" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#5C5C5C;strokeColor=#577845;fillColor=#21C0A5;" edge="1" parent="1" source="nDdKCuJg6omg3RGkGIXK-67" target="nDdKCuJg6omg3RGkGIXK-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nDdKCuJg6omg3RGkGIXK-67" value="App" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-17" y="262" width="125.5" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
