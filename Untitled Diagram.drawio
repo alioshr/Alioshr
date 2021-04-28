@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T21:51:57.451Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="GAt_EjHk48gVS94GrR3I" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-28T03:09:57.563Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="fTfyLUAE9VOeNhmQiDGY" version="14.6.6" type="github">
   <diagram id="7C1zHKz_L_XaID7tGxn1" name="Page-1">
     <mxGraphModel dx="786" dy="514" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -57,6 +57,15 @@
         </mxCell>
         <mxCell id="nDdKCuJg6omg3RGkGIXK-23" value="AddAccount" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;dashed=1;shadow=0;strokeColor=#994C00;" vertex="1" parent="1">
           <mxGeometry x="638" y="238" width="75" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="nDdKCuJg6omg3RGkGIXK-24" value="MongoDb" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="114" y="386" width="71" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="nDdKCuJg6omg3RGkGIXK-25" value="Validator" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="198" y="386" width="71" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="nDdKCuJg6omg3RGkGIXK-26" value="ByCrypt" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="23" y="386" width="71" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
