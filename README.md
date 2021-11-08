@@ -1,4 +1,4 @@
-<img src="https://scalexcloud.com/wp-content/uploads/2020/12/Custom-Software-Development-1-500x400.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://scalexcloud.com/wp-content/uploads/2020/12/Custom-Software-Development-1-500x400.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 
 
