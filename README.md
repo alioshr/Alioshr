@@ -3,7 +3,7 @@
 
 
 <p align="left"> 
- 🔭 I’m currently working an API with Express.js/MongoDb, applying TDD, DDD & SOLID
+ 🔭 I’m currently developing a fullstack app with Nextjs, Mongoose & Express
 </p>
 
 
