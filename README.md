@@ -2,13 +2,18 @@
 
 
 
+<p align="left"> 
+ 🔭 I’m currently working an API with Express.js/MongoDb, applying TDD, DDD & SOLID
+</p>
 
 
+<p align="left"> 
+ 🌱 I’m currently preparing my study-cases & projects into a portfolio
+</p>
 
-- 🔭 I’m currently working an API with Express.js/MongoDb, applying TDD, DDD & SOLID
-- 🌱 I’m currently preparing my study-cases & projects into a portfolio
-- 💬 Ask me about Anything
-- 📫 How to reach me: Twitter in loco
+<p align="left"> 
+💬 Ask me about Anything
+</p>
 
 <p align="left">
   <a href="https://twitter.com/alioshr_" alt="Twitter">
