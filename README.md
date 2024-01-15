@@ -3,12 +3,7 @@
 
 
 <p align="left"> 
- 🔭 I’m currently developing a fullstack app with Nextjs, Mongoose & Express
-</p>
-
-
-<p align="left"> 
- 🌱 I’m currently preparing my study-cases & projects into a portfolio
+ 🔭 I’m currently developing a fullstack app with react-native & fastify 
 </p>
 
 <p align="left"> 
